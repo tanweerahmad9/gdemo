@@ -10,3 +10,9 @@ new commit is here
 you can work on it after that you can commit it 
 on the server for the other 
 
+read the file for the enhancement of the file 
+or the bettermenet of the project or software 
+ main 
+ new things is added for now on tt
+ after merge
+ 
