@@ -15,4 +15,8 @@ or the bettermenet of the project or software
  main 
  new things is added for now on tt
  after merge
+ here is the new feature 
+ we have to add 
+ so thats could be more perfect for the 
+ develpoemnt of the app
  
