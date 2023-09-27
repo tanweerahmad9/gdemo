@@ -16,6 +16,10 @@ or the bettermenet of the project or software
  new things is added for now on tt
  after merge
  here is the new feature 
+ work is done 
+ so chill 
+ we are going to work on different things 
+ 
  we have to add 
  so thats could be more perfect for the 
  develpoemnt of the app
